@@ -1,0 +1,11 @@
+{
+  "name": "CTUapp",
+  "version": "0.2.1",
+  "description": "PWA Portal to CTU Contract, News, Reps, Notifications and Site",
+  "author": "Nathan Goldbaum",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-connect": "*"
+  }
+}
