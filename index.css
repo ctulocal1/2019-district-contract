@@ -1,0 +1,76 @@
+body {
+	width:600px;
+	margin:0 auto;
+	padding:0;
+	box-sizing:border-box;
+}
+div#dummy-nav-bar {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	height:40px;
+	z-index:-10;
+	background:black;
+}
+header {
+	z-index:1;
+}
+nav#menu-bar {
+	display:block;
+	position:fixed;
+	top:0;
+	right:-1px;
+	overflow:visible;
+	width:1px;
+	height:36px;
+	background:transparent;
+	color:white;
+	padding:3px;
+	font-family:Arial, sans-serif;
+}
+label[for="menu"] {
+	display:block;
+	position:fixed;
+	top:2px;
+	right:2px;
+	box-sizing:border-box;
+	height:36px;
+	margin:0;
+	padding: 6px;
+	border:2px solid white;
+	background:black;
+	font-size: 18px;
+	font-weight:700;
+	text-transform:uppercase;
+	z-index:1;
+}
+input#menu {
+	display:block;
+	position:fixed;
+	top:0;
+	left:-1000px;
+}
+input#menu + section.home-nav {
+	position: fixed;
+	top:42px;
+	height: 100vh;
+	width: calc(100% - 2px);
+	background:black;
+	color:red;
+	right:-100vw;
+	transition:right 0.2s;
+}
+input#menu:checked + section.home-nav {
+	transition:right 0.2s;
+	right:0;
+}
+main {
+	z-index:0;
+	position: fixed;
+	left:0;
+	top:40px;
+	background: #DDD;
+	height:calc(100vh - 40px);
+	width:100%;
+}
