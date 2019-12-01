@@ -1,0 +1,14 @@
+h2 {
+  text-align: center;
+  visibility:hidden;
+}
+h2 span {
+  visibility: visible;
+}
+h2 .type, h2 .number {
+  font-size: 20px;
+  display:inline;
+}
+h2 .title {
+  display:block;
+}
