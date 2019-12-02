@@ -4,6 +4,9 @@ body {
 	padding:0;
 	box-sizing:border-box;
 }
+body * {
+	box-sizing:border-box;
+}
 div#dummy-nav-bar {
 	position:fixed;
 	top:0;
@@ -12,6 +15,15 @@ div#dummy-nav-bar {
 	height:40px;
 	z-index:-10;
 	background:black;
+}
+main {
+	z-index:0;
+	position: fixed;
+	left:0;
+	top:40px;
+	background: #DDD;
+	height:calc(100vh - 40px);
+	width:100%;
 }
 header {
 	z-index:1;
@@ -34,7 +46,6 @@ label[for="menu"] {
 	position:fixed;
 	top:2px;
 	right:2px;
-	box-sizing:border-box;
 	height:36px;
 	margin:0;
 	padding: 6px;
@@ -65,12 +76,46 @@ input#menu:checked + section.home-nav {
 	transition:right 0.2s;
 	right:0;
 }
-main {
-	z-index:0;
-	position: fixed;
-	left:0;
-	top:40px;
-	background: #DDD;
-	height:calc(100vh - 40px);
+section.home-nav > ul,
+section.home-nav > ul > li{
+	list-style-type:none;
+	padding:0;
+	margin:0;
+}
+section.home-nav > ul {
+	padding-top:2px;
+}
+section.home-nav > ul > li > .article-toggle {
+	position:fixed;
+	left:-1000px;
+}
+section.home-nav > ul > li > label {
+	display:inline-block;
+	margin: 0;
+	padding: 14px 20px;
+	border-radius: 2px;
+	background: #a41e27;
+	color:white;
 	width:100%;
+	font-size: 28px;
+	line-height:28px;
+	height: 56px;
+}
+section.home-nav > ul > li > article.menu-item {
+	margin: 0 2px 2px 2px;
+	padding: 0 20px;
+	border:none;
+	background: #ddd;
+	color: black;
+}
+section.home-nav > ul > li > .article-toggle:checked + article.menu-item {
+	height: calc(100vh - 277px);
+	transition: height 0.8s, padding 0.8s;
+	overflow:auto;
+	padding: 2px 20px;
+}
+section.home-nav > ul > li > .article-toggle:not(:checked) + article.menu-item {
+	overflow: hidden;
+	height: 0;
+	transition: height 0.8s, padding 0.8s;
 }
