@@ -1,0 +1,20 @@
+{
+  "name": "CTU App | Chicago Teachers Union Contract",
+  "short_name": "CTU App",
+  "description": "This Chicago Teachers Union progressive web application can be downloaded directly from the web and installed directly to home page, including the CTU contract with the district, news feeds and more.",
+  "icons": [
+    {
+      "src": "meta/favicon.png",
+      "sizes": "640x640",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/shell.html",
+  "scope": "/",
+  "display": "fullscreen",
+  "background_color": "#fff",
+  "theme_color": "#ec1b2e",
+  "orientation": "portrait",
+  "lang": "en",
+  "dir": "ltr"
+}

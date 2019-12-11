@@ -7,16 +7,6 @@ body {
 body * {
 	box-sizing:border-box;
 }
-div#dummy-nav-bar {
-	position:fixed;
-	top:0;
-	left:0;
-	width:100%;
-	height:40px;
-	z-index:-10;
-	background:black;
-  display:none;
-}
 main {
 	z-index:0;
 	position: fixed;
@@ -28,6 +18,7 @@ main {
 }
 header {
 	z-index:1;
+  position:fixed;
 }
 nav#menu-bar {
 	display:block;
@@ -112,7 +103,7 @@ section.home-nav > ul > li{
 section.home-nav > ul {
 	padding-top:2px;
 }
-section.home-nav > ul > li > .article-toggle {
+section.home-nav > ul > li > .menu-radio {
 	position:fixed;
 	left:-1000px;
 }
@@ -128,7 +119,25 @@ section.home-nav > ul > li > label {
 	line-height:28px;
 	height: 56px;
 }
-section.home-nav > ul > li > article.menu-item {
+section.home-nav > ul > li > label:focus-within,
+section.home-nav > ul > li > .menu-radio:focus + label,
+section.home-nav > ul > li > label:hover {
+  background: #A36065;
+}
+section.home-nav > ul > li > label.link-only {
+	margin: 0 2px 2px 2px;
+  padding:0;
+  text-decoration:none;
+}
+section.home-nav > ul > li > label.link-only a {
+	display:inline-block;
+  width:100%;
+	margin: 0;
+	padding: 14px 20px;
+  color:white;
+  text-decoration:none;
+}
+section.home-nav > ul > li > article.sub-menu {
 	margin: 0 2px 2px 2px;
 	padding: 0 20px;
 	border:none;
@@ -136,13 +145,13 @@ section.home-nav > ul > li > article.menu-item {
 	color: black;
   box-sizing:border-box;
 }
-section.home-nav > ul > li > .article-toggle:checked + article.menu-item {
+section.home-nav > ul > li > .menu-radio:checked + label + article.sub-menu {
 	height: calc(100vh - 277px);
 	transition: height 0.8s, padding 0.8s;
 	overflow:auto;
 	padding: 2px 20px;
 }
-section.home-nav > ul > li > .article-toggle:not(:checked) + article.menu-item {
+section.home-nav > ul > li > .menu-radio:not(:checked) + label + article.sub-menu {
 	overflow: hidden;
 	height: 0;
 	transition: height 0.8s, padding 0.8s;
