@@ -1,4 +1,4 @@
-var data=
+var contract=
 [
   {
     "type": "Search",

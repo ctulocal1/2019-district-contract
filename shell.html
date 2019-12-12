@@ -18,8 +18,8 @@
 	<body>
 		<header>
 			<nav id="menu-bar">
-				<input type="checkbox" id="menu" >
-				<label for="menu">App Menu</label>
+				<input type="checkbox" id="menuToggle" checked>
+				<label for="menuToggle">App Menu</label>
 				<section class="home-nav">
 					<ul>
 						<li>
@@ -58,5 +58,11 @@
 		</main>
 		<footer>
 		</footer>
+    <script>
+      const delay=window.setTimeout (()=>{
+        const toggle=document.getElementById("menuToggle");
+        toggle.click();
+      }, 500);
+    </script>
 	</body>
 </html>

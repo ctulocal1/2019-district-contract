@@ -12,9 +12,9 @@
   "start_url": "/shell.html",
   "scope": "/",
   "display": "fullscreen",
-  "background_color": "#fff",
+  "background_color": "#ffffff",
   "theme_color": "#ec1b2e",
   "orientation": "portrait",
-  "lang": "en",
+  "lang": "en-us",
   "dir": "ltr"
 }
