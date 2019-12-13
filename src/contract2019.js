@@ -1,4 +1,4 @@
-render("B");
+render("I");
 function render(articleNum) {
   const articles=contract.filter(article => article.num.startsWith(articleNum));
   const main=document.getElementsByTagName("main").item(0);
@@ -7,12 +7,14 @@ function render(articleNum) {
       const result=renderSubArticle(article);
       main.appendChild(result);
     });
-  } else if (articles.length>0) {
-      const article=articles.shift();
-      const result=renderArticle(article);
-      main.appendChild(result);
-    const table=renderTable(articles);
+  } else {
+    const article=articles.shift();
+    const result=renderArticle(article);
+    main.appendChild(result);
+    if (articles.length>0) {
+      const table=renderTable(articles);
       main.appendChild(table);
+    }
   }
 }
 function renderArticle (thisArt) {

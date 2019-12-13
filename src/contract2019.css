@@ -1,0 +1,21 @@
+h1 {font-size:4vh;}
+h2 {font-size:3vh;}
+h3 {font-size:2vh;}
+h4 {font-size:1vh;}
+ol, ol li {list-style-type: upper-roman;}
+ol ol li, ol ol {list-style-type: upper-alpha;}
+ol ol ol li, ol ol ol {list-style-type: decimal;}
+ol ol ol ol li, ol ol ol ol {list-style-type: lower-alpha;}
+ol ol ol ol ol li, ol ol ol ol ol {list-style-type: lower-roman;}
+ul, ul li {list-style-type: upper-roman;}
+ul ul li, ul ul {list-style-type: upper-alpha;}
+ul ul ul li, ul ul ul {list-style-type: decimal;}
+ul ul ul ul li, ul ul ul ul {list-style-type: lower-alpha;}
+ul ul ul ul ul li, ul ul ul ul ul {list-style-type: lower-roman;}
+h1, h2, h3, h4 {line-height:1.3;}
+body {
+  font-family: sans-serif;
+  max-width:600px;
+  line-height:1.6;
+  font-size: 16px;
+}
