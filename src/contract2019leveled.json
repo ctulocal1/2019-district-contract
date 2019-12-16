@@ -6,7 +6,7 @@
       "num": "Page",
       "type": "Home",
       "title": "Agreement between The Board of Education of the City of Chicago and Chicago Teachers Union Local 1, American Federation of Teachers, AFL-CIO",
-      "content": "This collective bargaining agreement (hereinafter referred to as the “Agreement”) is entered into by and between the Board of Education of the City of Chicago (hereinafter referred to as the “BOARD”) and the Chicago Teachers Union, Local No. 1, American Federation of Teachers, AFL-CIO (hereinafter referred to as the “UNION”) on the 7th day of December, 2016 to become effective on the same date."
+      "content": "This collective bargaining agreement (hereinafter referred to as the “Agreement”) is entered into by and between the Board of Education of the City of Chicago (hereinafter referred to as the “BOARD”) and the Chicago Teachers Union, Local No. 1, American Federation of Teachers, AFL-CIO (hereinafter referred to as the “UNION”) on the 20th day of November, 2019 to become effective upon ratification by the UNION’s membership and the BOARD."
     }
   ],
   "level2": [
@@ -159,8 +159,7 @@
       "parents": "ARTICLES »",
       "num": "ARTICLE 17",
       "type": "Article",
-      "title": "PLAYGROUND TEACHERS",
-      "content": "In the event the BOARD hires Playground Teachers, the BOARD and the UNION shall meet promptly to bargain over their terms and conditions of employment."
+      "title": "EARLY CHILDHOOD TEACHERS"
     },
     {
       "id": "art18",
@@ -761,7 +760,7 @@
       "num": "2-1",
       "type": "Article",
       "title": "Prohibition on Discrimination",
-      "content": "<p>No employee shall be discriminated or retaliated against on the basis of race, creed, color, age, sex, national origin, marital status, disability or sexual orientation; the utilization of benefits authorized by this Agreement or BOARD policy; membership or participation in, or association with the activities of, the UNION; filing grievances or resolving grievances and professional problems; or participation in any committee, council or group, including, but not limited to, the Professional Personnel Leadership Committee, Professional Problems Committee or Local School Council.</p>"
+      "content": "<p>No employee shall be discriminated or retaliated against on the basis of race or ethnicity, ethnic group identification, national origin, nationality, ancestry, creed, color, age, gender or sex (including pregnancy, childbirth, breastfeeding, and pregnancy related medical condition), marital status, civil unions, legally recognized domestic partner status, military/veteran or military discharge status, disability, actual or perceived sexual orientation, gender identity or expression, religion, parental status, immigration status, genetic information, refusal to submit to a genetic test or make available the results of a genetic test, or political belief or affiliation (not union related); the utilization of benefits authorized by this Agreement or BOARD policy; membership or participation in, or association with the activities of, the UNION; filing grievances or resolving grievances and professional problems; or participation in any committee, council or group, including but not limited to, the Professional Personnel Leadership Committee, Professional Problems Committee or Local School Council.</p>"
     },
     {
       "id": "art2-2",
@@ -1288,7 +1287,7 @@
       "num": "6-25",
       "type": "Article",
       "title": "Maximum Teacher Periods for Certain Teachers",
-      "content": "<p>High school teachers of art, drafting, music, physical education and business education, and teachers in education and vocational guidance centers, shall have a maximum of twenty-five teaching periods per week.</p>"
+      "content": "<p>High school teachers of art, drafting, music, physical education and business education, and teachers in education and career and technical education guidance centers, shall have a maximum of twenty-five teaching periods per week.</p>"
     },
     {
       "id": "art7-1",
@@ -1304,7 +1303,7 @@
       "num": "7-2",
       "type": "Article",
       "title": "Text Committees",
-      "content": "<p>Text committees shall be established in each school composed of teachers elected by their peers and may be subject-area specific as appropriate, including, but not limited to, the subjects of English, social studies, mathematics, science, business, foreign language and special education.  Text committees shall present written recommendations to the principal and the Professional Problems Committee concerning the purchase of texts and related instructional materials.  Any approved text list shall be made available to the schools by February 1 of each school year whenever possible.</p>"
+      "content": "<p>Text committees shall be established in each school composed of teachers elected by their peers and may be subject-area specific as appropriate, including, but not limited to, the subjects of English, social studies, mathematics, science, business, and foreign language. There shall always be at least one special education teacher on the committee. Text committees shall present written recommendations to the principal and the Professional Problems Committee concerning the purchase of texts and related instructional materials.  Any approved text list shall be made available to the schools by February 1 of each school year whenever possible.</p>"
     },
     {
       "id": "art7-3",
@@ -1336,7 +1335,7 @@
       "num": "7-6",
       "type": "Article",
       "title": "Supply Money",
-      "content": "<p>Each Fiscal Year, the BOARD shall appropriate sufficient funds to each school or unit to reimburse teachers, counselors, clinicians and speech-language paraeducators up to $250.00 per employee for instructional supplies and materials, classroom library books and therapeutic materials purchased by them for student instruction and support.  Principals and head administrators shall approve the reimbursements in accordance with the procedures developed by BOARD, and such reimbursements shall be paid by the end of the semester in which the receipts were submitted.</p>"
+      "content": "<p>Each Fiscal Year, the BOARD shall appropriate sufficient funds to each school or unit to reimburse teachers, counselors, clinicians and speech-language paraeducators up to $250.00 per employee for instructional supplies and materials, classroom library books and therapeutic materials purchased by them for student instruction and support.  Principals and head administrators shall approve the reimbursements in accordance with the procedures developed by BOARD, and such reimbursements shall be paid by the end of the semester in which the receipts were submitted.  Employees shall be reimbursed for reasonable purchases for classroom and school use.  Additionally, the BOARD procedures will make clear that purchases by teachers, counselors, clinicians, and speech-language paraeducators are presumed to be reasonable and will not be denied for reimbursement unless clearly outside of a reasonable classroom or school use consistent with Board policy. If certain categories of purchases are being denied for reimbursement, the BOARD and the UNION shall meet and discuss whether they are reasonable and, if determined to be reasonable, the BOARD shall authorize an expeditious reimbursement. No later than the start of the 2020-21 school year, the BOARD shall retain mutually agreed upon vendors where bargaining unit employees in each of the above-listed titles can purchase supplies from prepaid accounts in the amount of up to $250.00 per year.</p>"
     },
     {
       "id": "art8-1",
@@ -1353,6 +1352,13 @@
       "type": "Article",
       "title": "Teacher Leaders",
       "content": "<p>Teacher leaders shall be placed in teacher positions with a value of 1.2, and all such salary is pensionable under <a href=\"?art36-4.1#art36-4\">Article 36-4.1</a>.</p>"
+    }{
+      "id": "art8-3",
+      "parents": "ARTICLES » 8. PROFESSIONAL DEVELOPMENT TEACHERS AND TEACHER LEADERS",
+      "num": "8-3",
+      "type": "Article",
+      "title": "Online Professional Development",
+      "content": "<p>The BOARD shall work with the UNION to ensure that every CPS school shall offer free online professional development classes that meet requirements for ISBE licensure renewal. The BOARD shall advocate that ISBE allow schools to provide ISBE credit for grade-level, curriculum, and faculty meetings.</p>"
     },
     {
       "id": "art9-1",
@@ -1499,6 +1505,30 @@
       "content": "<p>Each school shall provide a desk and a chair for the computer technicians and technology coordinators I, II and III.  Telephone service and computer access shall be available.</p>"
     },
     {
+      "id": "art9-19",
+      "parents": "ARTICLES » 21. SPECIAL EDUCATION TEACHERS",
+      "num": "9-19",
+      "type": "Article",
+      "title": "American Sign Language Interpreters Regular School Day",
+      "content": "<p>In schools with students with disabilities whose Individualized Education Programs require American Sign Language interpreters, one staff member who is able to communicate with such students shall be designated to remain in the school until such students have been released for the day.  Hours worked beyond the regular work day shall be compensated at the hourly rate of pay. The regular day for sign language interpreters shall be seven hours and forty-five minutes with a continuous duty-free lunch period and no work responsibilities.&nbsp; Each interpreter’s school day shall include 45 minutes of continuous duty-free preparation time.&nbsp; Four days each week, the interpreter’s preparation time shall be self-directed.&nbsp; On day each week this period shall be directed by the principals or the interpreter supervisor for interpreter related preparation or duties, e.g., IEP meetings and/or collaboration with the IEP team. The Board shall ensure that qualified substitutes are provided for ASL Interpreters who are absent.</p>"
+    },
+    {
+      "id": "art9-20",
+      "parents": "ARTICLES » 9. PARAPROFESSIONAL AND SCHOOL-RELATED PERSONNEL",
+      "num": "9-20",
+      "type": "Article",
+      "title": "PSRP Probationary Period",
+      "content": "<p>Consistent with longstanding past practice and BOARD policy, the probationary period for PSRP bargaining unit employees shall be one year.</p>"
+    },
+    {
+      "id": "art9-21",
+      "parents": "ARTICLES » 9. PARAPROFESSIONAL AND SCHOOL-RELATED PERSONNEL",
+      "num": "9-21",
+      "type": "Article",
+      "title": "Support for PSRP Teacher Candidates",
+      "content": "<p>In consultation with the Union, the BOARD will increase its financial commitment to support PSRPs (and other teacher candidates involved in schools such as parents) who desire to pursue becoming classroom teachers in CPS. The Board shall secure funding to ensure that said candidates receive financial support and health insurance.</p>"
+    },
+    {
       "id": "art11-1",
       "parents": "ARTICLES » 11. DRIVER EDUCATION TEACHERS",
       "num": "11-1",
@@ -1576,7 +1606,7 @@
       "num": "12-2",
       "type": "Article",
       "title": "Community Schools",
-      "content": "<p>As part of the partnership required by the School Code, the Board shall obtain funding from external agencies and/or in-kind donations to fund between 20 and 55 community schools.  Said funding or in-kind donations shall have a value of a minimum of $500,000 per school annually, which amounts are not to be commingled with district or school funds.</p><p>The Board and the Union agree to form a 20-person task force, with 10 persons appointed by each, to effectuate, monitor and implement the following initiatives with respect to these community schools:</p><ul><li>An agreed process to select the schools</li><li>Consultation with LSC, principals and community members</li></ul><p>Program elements may include, without limitation:</p><ul><li>Medical or mental health services available to the school community</li><li>The expansion of after-school programs</li><li>The expansion of facility use for students or the school community</li><li>Social-emotional supports/trauma interventions</li><li>Parent mentor and home visit program</li><li>Restorative Justice Coordinator and professional development for parents, students and staff</li><li>Clinical services and community programming</li><li>STLS coordinator, homelessness services, truancy supports, food pantry</li><li>Coordination of City and Park District services</li></ul>"
+      "content": "<p>As part of the partnership required by the School Code, the Board shall fund  the 20 sustainable community schools currently in operation for the 2019-20 school year. The BOARD and the UNION will jointly evaluate these 20 schools during the 2019-20 school year and will determine the continuation of these schools and any expansion of the Sustainable Community Schools program in future years. The BOARD agrees to maintain, for each year of the agreement, the level of funding currently provided for the 2019-20 school year for Sustainable Community Schools for support of a community schools initiative. The Task Force referenced below will decide upon the list of a minimum of 20 Sustainable Community Schools to receive funding for SY 2020-21 and thereafter.</p><p>The Board and the Union agree to form a 20-person task force, with 10 persons appointed by each, to effectuate, monitor and implement the following initiatives with respect to these community schools:</p><ul><li>An agreed process to select the schools</li><li>Consultation with LSC, principals and community members</li></ul><p>Program elements may include, without limitation:</p><ul><li>Medical or mental health services available to the school community</li><li>The expansion of after-school programs</li><li>The expansion of facility use for students or the school community</li><li>Social-emotional supports/trauma interventions</li><li>Parent mentor and home visit program</li><li>Restorative Justice Coordinator and professional development for parents, students and staff</li><li>Clinical services and community programming</li><li>STLS coordinator, homelessness services, truancy supports, food pantry</li><li>Coordination of City and Park District services</li></ul><p>The Board and Union agree that members of the task force shall not have a conflict of interest in the selection and delivery of services to the sustainable community schools.</p><p>The BOARD and the UNION agree to jointly assess the functioning of the Task Force and make recommendations for its improvement.</p>"
     },
     {
       "id": "art13-1",
@@ -1713,6 +1743,14 @@
       "type": "Article",
       "title": "Reporting Acts of Vandalism",
       "content": "<p>Bargaining unit employees shall report immediately or as soon as possible any acts of vandalism to the principal.</p>"
+    },
+    {
+      "id": "art14-9",
+      "parents": "ARTICLES » 14. SAFE AND HEALTHY WORK ENVIRONMENT",
+      "num": "14-9",
+      "type": "Article",
+      "title": "Fitness for Duty Medical Examinations",
+      "content": "<p>If the BOARD requests that an employee undergo a fitness for duty examination, the BOARD shall pay the cost of the examination. The parties agree to reconstitute the tiebreaker panel of physicians used to make fitness for duty and medical clearance for work determinations, and they shall finalize a new list of mutually agreed upon physicians by no later than January 1, 2020.</p>"
     },
     {
       "id": "art15-1",
@@ -1939,6 +1977,46 @@
       "content": "<p>Principals and head administrators should strive to program no more than one class in any gymnasium at any given time, unless the space provides for the safe separation of the two classes.</p>"
     },
     {
+      "id": "art17-1",
+      "parents": "ARTICLES » EARLY CHILDHOOD TEACHERS",
+      "num": "ARTICLE 17-1",
+      "type": "Article",
+      "title": "Nap Time",
+      "content": "<p>In full-day pre-K classrooms children shall be allowed to nap.</p>"
+    },
+    {
+      "id": "art17-2",
+      "parents": "ARTICLES » EARLY CHILDHOOD TEACHERS",
+      "num": "ARTICLE 17-2",
+      "type": "Article",
+      "title": "First Quarter Release Time",
+      "content": "<p>Principals shall convert two principal-directed preparation periods to teacher-directed preparation periods or provide any other release time as determined by the principal for a minimum of two hours to kindergarten teachers during the first quarter, or in any quarter that the KIDS assessment is administered in order to complete kindergarten report cards.</p>"
+    },
+    {
+      "id": "art17-3",
+      "parents": "ARTICLES » EARLY CHILDHOOD TEACHERS",
+      "num": "ARTICLE 17-3",
+      "type": "Article",
+      "title": "Pre-K Teacher Assistants",
+      "content": "<p>In accordance with the Chicago Public Schools preschool handbook Preschool Teaching Assistants will be assisting Pre-K classroom teachers 100% of their day and will not be used to substitute, to cover lunchroom duty or recess duty unless accompanying their assigned students, to perform office duties or perform other capacities in the building except for temporary emergency supervisory duty where the welfare of students is involved (emergency duties do not include regular lunch duty and recess assignments). Said temporary emergency supervisory duty shall not exceed sixty minutes. All preschool classrooms shall maintain a 10:1 child to teacher ratio at all times, including during nap or rest time, meals, specials, etc.  TA’s shall have their contractual breaks covered by school staff to maintain the 10:1 ratio.</p>"
+    },
+    {
+      "id": "art17-4",
+      "parents": "ARTICLES » EARLY CHILDHOOD TEACHERS",
+      "num": "ARTICLE 17-4",
+      "type": "Article",
+      "title": "Hygienic Equipment and Facilities",
+      "content": "<p>Preschool classrooms with SECAs shall have access to adequate bathroom facilities including safe and sanitary diapering facilities for children who are unable to use the toilet consistently. These facilities shall be easily accessible to students and school staff. The school shall provide all necessary supplies for containment of soiled clothing in safe and sanitary fashion. Disposable safety gloves shall be provided in all early childhood classrooms in case of toileting accidents.  Adequate staff shall be provided to assist students in case of toileting accidents and no student shall be punished or excluded from instruction due to toileting accident</p>"
+    },
+    {
+      "id": "art17-5",
+      "parents": "ARTICLES » EARLY CHILDHOOD TEACHERS",
+      "num": "ARTICLE 17-5",
+      "type": "Article",
+      "title": "Early Childhood Substitute Teacher Assistants",
+      "content": "<p>The BOARD shall establish a pool of substitute teacher assistants qualified to serve early childhood classrooms and shall staff the pool at sufficient levels to meet early childhood classroom coverage needs across the school district.</p>"
+    },
+    {
       "id": "art18-1",
       "parents": "ARTICLES » 18. CAREER AND TECHNICAL EDUCATION TEACHERS",
       "num": "18-1",
@@ -2080,6 +2158,14 @@
       "type": "Article",
       "title": "Career and Technical Education General",
       "content": "<p>Career and Technical Education Teachers in approved Career and Technical Education programs teaching 6 periods per day shall be paid their base salary plus twenty percent of their base salary.  Funding is to be covered by the school.</p>"
+    },
+    {
+      "id": "art18-19",
+      "parents": "ARTICLES » 18. CAREER AND TECHNICAL EDUCATION TEACHERS",
+      "num": "18-19",
+      "type": "Article",
+      "title": "Professional Development",
+      "content": "<p>Teacher participation in the annual CTE Summer Institute is mandatory unless the teacher was not staffed at the time of the event.  Summer Institute will cover a wide range of professional learning session formats including but not limited to district initiatives, technical skill advancements, work-based learning, and an opportunity to share best practices as it relates to Career and Technical Education. Summer Institute will not include REACH orientation training. The BOARD, in consultation with the UNION, shall plan the content of the Summer Institute.</p>"
     },
     {
       "id": "art19-1",
@@ -2314,14 +2400,6 @@
       "content": "<p>Principals may use Cadre substitute teachers to provide release time to special education teachers for the purpose of completing Individualized Education Programs.</p>"
     },
     {
-      "id": "art21-17",
-      "parents": "ARTICLES » 21. SPECIAL EDUCATION TEACHERS",
-      "num": "21-17",
-      "type": "Article",
-      "title": "American Sign Language Interpreters",
-      "content": "<p>In schools with students with disabilities whose Individualized Education Programs require American Sign Language interpreters, one staff member who is able to communicate with such students shall be designated to remain in the school until such students have been released for the day.  Hours worked beyond the regular work day shall be compensated at the hourly rate of pay. The regular day for sign language interpreters shall be seven hours and forty-five minutes with a continuous duty-free lunch period and no work responsibilities.&nbsp; Each interpreter’s school day shall include 45 minutes of continuous duty-free preparation time.&nbsp; Four days each week, the interpreter’s preparation time shall be self-directed.&nbsp; On day each week this period shall be directed by the principals or the interpreter supervisor for interpreter related preparation or duties, e.g., IEP meetings and/or collaboration with the IEP team.</p>"
-    },
-    {
       "id": "art21-18",
       "parents": "ARTICLES » 21. SPECIAL EDUCATION TEACHERS",
       "num": "21-18",
@@ -2503,7 +2581,7 @@
       "num": "27-1",
       "type": "Article",
       "title": "Day-to-Day Substitutes",
-      "content": "<p>The BOARD shall hire and maintain sufficient day-to-day substitutes to cover the classes of absent teachers so that educational programs in elementary schools, middle schools, education and vocational guidance centers and high schools shall not be curtailed.</p>"
+      "content": "<p>The BOARD shall hire and maintain sufficient day-to-day substitutes to cover the classes of absent teachers so that educational programs in elementary schools, middle schools, education and career and technical education guidance centers and high schools shall not be curtailed.</p>"
     },
     {
       "id": "art27-2",
@@ -2519,7 +2597,7 @@
       "num": "27-3",
       "type": "Article",
       "title": "Using Appointed Teachers or TATs to Provide Class Coverage",
-      "content": "<p>The BOARD agrees, in principle, that no teacher shall be requested to assume responsibility for students from classrooms of absent teachers when substitutes are unavailable.  In elementary schools, middle schools, education and vocational guidance centers and high schools, at no time should special education classes nor special programs, such as library, physical education, shop, TESL, bilingual or special reading classes, be discontinued so that substitute service may be performed by teachers of these programs, except in the case of emergencies, in which case the above teachers shall be subject to last call after available non-teaching certificated personnel have been assigned.</p>"
+      "content": "<p>The BOARD agrees, in principle, that no teacher shall be requested to assume responsibility for students from classrooms of absent teachers when substitutes are unavailable.  In elementary schools, middle schools, education and career and technical education guidance centers and high schools, at no time should special education classes nor special programs, such as library, physical education, shop, TESL, bilingual or special reading classes, be discontinued so that substitute service may be performed by teachers of these programs, except in the case of emergencies, in which case the above teachers shall be subject to last call after available non-teaching certificated personnel have been assigned.</p>"
     },
     {
       "id": "art27-4",
@@ -2591,7 +2669,7 @@
       "num": "28-1",
       "type": "Article",
       "title": "BOARD Policy",
-      "content": "<p><a rel=\"noopener\" href=\"http://policy.cps.edu/download.aspx?ID=30\" target=\"_blank\">Section 301.2 of the Chicago Public Schools Policy Manual (Class Size) (Board Report:  10-0615-PO1) (Date Adopted:  June 15, 2010)</a> shall provide as follows:</p><blockquote><ol><li>\n            <h2>Elementary Schools and Vocational Guidance Centers (if any)</h2><ol><li>\n              <h3>Staffing</h3><ul><li>28 at the kindergarten level</li><li>28 at the primary level</li><li>31 at the intermediate level and upper grade level</li><li>20 in the education and vocational guidance centers (if any)</li></ul><ol><li><p>The number of classroom teaching positions provided to each elementary school will generally be determined as follows:</p><ol><li><p>The total number of intermediate and upper grade students will be divided by 31 on a whole number basis (i.e., the division will not be extended to a decimal place).  If the division is uneven, then the remaining students will be included in the primary membership;</p></li><li><p>The total number of primary students will be divided by 28 extended to one decimal place, and rounded up to the nearest whole number;</p></li><li><p>The total number of kindergarten students will be divided by two, extended to one decimal place, and rounded up to the nearest whole number; this number will then be divided by 28, extended to one decimal place, and rounded up to the nearest half (0.5) number;</p></li><li><p>The sum of (a), (b) and (c) represents the total number of teaching positions that will be provided to each elementary school;</p></li><li><p>Teachers assigned to the Intensive Reading Improvement Program or to bilingual programs will not be counted as part of the number provided to implement the maximum class size program in each school.</p></li></ol></li><li><p>The total number of education and vocational guidance center students (if any) will be divided by 20, extended to one decimal place, and rounded up to the nearest whole number.</p></li></ol></li><li>\n              <h3>Organization</h3><ol><li>\n                <h4 style=\"display:inline; text-decoration:none;\">Elementary Schools With Space Available</h4><p>In those elementary schools in which space is available, the maximum number of students in classes will generally be as follows:</p><ul><li>27–29 in kindergarten classes</li><li>27–29 in primary grade classes</li><li>30–32 in intermediate classes and upper grade classes</li></ul><p>Implementation of these class sizes in specific schools may result in problems relating to class reorganization, single section classes, split grades, and installation of experimental programs.  Local school deviations from the class sizes indicated above may be made by the principal, after consulting the Professional Problems Committee and the teachers involved, when necessary to implement special programs for instructional improvement or to meet special needs of the particular school.</p></li><li>\n                <h4 style=\"display:inline; text-decoration:none;\">Elementary Schools Without Space Available</h4><p>In those elementary schools in which space is unavailable to organize classes as indicated above, the additional teachers provided under the staffing in (A) will share the curriculum planning, instructional responsibilities, and all other related duties of teachers.  Said additional teachers will be programmed in such a way as to provide for maximum teacher-student contacts on a regularly scheduled basis to share the instructional load of the classroom teachers.  Said additional teachers should not be used primarily for: </p><ul><li>administrative assistance</li><li>building security purposes</li><li>clerical or office-type tasks</li><li>discipline purposes</li><li>substituting</li><li>lunchroom duty</li><li>playground duty</li><li>guidance purposes—adjustment and counseling</li></ul></li><li><p>All schools will be designated as schools with space available or schools without space available.  Five periodic reports will be prepared during the school year and will include the following:</p><ol><li><p>a listing of the names of the schools where space is available;</p></li><li><p>listing of the names of the schools where space is not available and where additional teachers have been assigned.</p></li></ol></li><li><p>Elementary schools without space available and where additional teachers have been assigned will:</p><ol><li><p>receive first priority in the assignment of Cadre and day-to-day substitute teachers;</p></li><li><p>have physical education teachers and teacher-librarians assigned based on the number of teaching positions, with each kindergarten class counted as one position.</p></li></ol></li></ol></li></ol></li><li>\n            <h2>High School Staffing and Organization<sup>1</sup></h2><ol><li><p>The maximum number of students in the classes indicated below will generally be as follows:</p>\n              <table><tbody>\n                <tr><td>English (regular, honors and advanced placement)</td><td>28</td></tr>\n                <tr><td>English (essential or basic)</td><td>25</td></tr>\n                <tr><td>Mathematics (regular, honors and advanced placement)</td><td>28</td></tr>\n                <tr><td>Mathematics (remedial)</td><td>25</td></tr>\n                <tr><td>Foreign Language</td><td>28</td></tr>\n                <tr><td>Social Studies</td><td>28</td></tr>\n                <tr><td>Business Education</td><td>28</td></tr>\n                <tr><td>General Science–Science Laboratory</td><td>28</td></tr>\n                <tr><td>Home Economics–Non-Laboratory</td><td>28</td></tr></tbody></table><p>If essential or basic students are programmed in the same English or mathematics class with regular or honors students, the maximum class size will generally be 25 students.</p><p>Implementation of the policy on class sizes in specific schools may result in problems relating to individual class sizes, single section classes, installation of experimental programs, scheduling of special subject classes, and class organization and reorganization.  Local school deviations from the class sizes indicated above may be made by the principal, after consulting the Professional Problems Committee and the teachers involved, when necessary to implement special programs for instructional improvement or to meet special needs of the particular schools.  The total number of subject matter students assigned to each teacher should not exceed the number of subject classes multiplied by the maximum class size for the given subject indicated.</p></li><li><p>The number of students assigned to teachers indicated below will generally be determined by multiplying the number indicated next to the subject by the number of classes in the given subject.</p>\n              <table><tbody>\n                <tr><td>Art</td><td>31</td></tr>\n                <tr><td>General Music</td><td>34</td></tr>\n                <tr><td>Physical Education</td><td>40</td></tr></tbody></table></li></ol><small>\n              <table><tbody>\n                <tr><td valign=\"top\"><sup>1</sup></td><td>One of the responsibilities of all high school teachers is to work to improve reading skills of all students in all subject areas.</td></tr></tbody></table></small></li><li>\n            <h2>Elementary Schools–Art &amp; Music</h2><p>The BOARD will continue to assign art and music teachers to elementary schools in accordance with the following formula:</p><ul><li><p>.5 position for schools whose enrollment is 750 or less;</p></li><li><p>1.0 position for schools whose enrollment is 751 or more.</p></li></ul></li><li>\n            <h2>Shop, Home Economics, Laboratory and Drafting</h2><p>Shop, home economics, laboratory and drafting classes shall be limited in size to the maximum number of work stations available in each individual physical classroom in each school.  The number of stations in each individual classroom shall be determined by the individual teacher, school administrator, and the shop supervisor of the BOARD.</p></li><li>\n            <h2>Special Education</h2><p>The class size in special education classes shall be in accordance with the guidelines established by the BOARD in “Guidelines for Special Education Programs” and the Rules and Regulations of the State Board of Education.</p></li><li>\n            <h2>Administrative Discretion in Exceptional Circumstances</h2><p>The Chief Executive Officer or Chief Financial Officer is authorized to permit deviations from this policy where circumstances in the judgment of either of them require it.</p></li><li>\n            <h2>Procedures for Modifying Class Size Policy</h2><p>Prior to BOARD adoption of any amendments to this policy altering the class size provisions contained herein, notice and an opportunity to meet and confer regarding the alterations will be provided to the UNION at least 45 calendar days prior to implementation.</p></li></ol></blockquote>"
+      "content": "<p><a rel=\"noopener\" href=\"http://policy.cps.edu/download.aspx?ID=30\" target=\"_blank\">Section 301.2 of the Chicago Public Schools Policy Manual (Class Size) (Board Report:  10-0615-PO1) (Date Adopted:  June 15, 2010)</a> shall provide as follows:</p><blockquote><ol><li>\n            <h2>Elementary Schools and Career and Technical Education Guidance Centers (if any)</h2><ol><li>\n              <h3>Staffing</h3><ul><li>28 at the kindergarten level</li><li>28 at the primary level</li><li>31 at the intermediate level and upper grade level</li><li>20 in the education and career and technical education guidance centers (if any)</li></ul><ol><li><p>The number of classroom teaching positions provided to each elementary school will generally be determined as follows:</p><ol><li><p>The total number of intermediate and upper grade students will be divided by 31 on a whole number basis (i.e., the division will not be extended to a decimal place).  If the division is uneven, then the remaining students will be included in the primary membership;</p></li><li><p>The total number of primary students will be divided by 28 extended to one decimal place, and rounded up to the nearest whole number;</p></li><li><p>The total number of kindergarten students will be divided by two, extended to one decimal place, and rounded up to the nearest whole number; this number will then be divided by 28, extended to one decimal place, and rounded up to the nearest half (0.5) number;</p></li><li><p>The sum of (a), (b) and (c) represents the total number of teaching positions that will be provided to each elementary school;</p></li><li><p>Teachers assigned to the Intensive Reading Improvement Program or to bilingual programs will not be counted as part of the number provided to implement the maximum class size program in each school.</p></li></ol></li><li><p>The total number of education and career and technical education guidance center students (if any) will be divided by 20, extended to one decimal place, and rounded up to the nearest whole number.</p></li></ol></li><li>\n              <h3>Organization</h3><ol><li>\n                <h4 style=\"display:inline; text-decoration:none;\">Elementary Schools With Space Available</h4><p>In those elementary schools in which space is available, the maximum number of students in classes will generally be as follows:</p><ul><li>27–29 in kindergarten classes</li><li>27–29 in primary grade classes</li><li>30–32 in intermediate classes and upper grade classes</li></ul><p>Implementation of these class sizes in specific schools may result in problems relating to class reorganization, single section classes, split grades, and installation of experimental programs.  Local school deviations from the class sizes indicated above may be made by the principal, after consulting the Professional Problems Committee and the teachers involved, when necessary to implement special programs for instructional improvement or to meet special needs of the particular school.</p></li><li>\n                <h4 style=\"display:inline; text-decoration:none;\">Elementary Schools Without Space Available</h4><p>In those elementary schools in which space is unavailable to organize classes as indicated above, the additional teachers provided under the staffing in (A) will share the curriculum planning, instructional responsibilities, and all other related duties of teachers.  Said additional teachers will be programmed in such a way as to provide for maximum teacher-student contacts on a regularly scheduled basis to share the instructional load of the classroom teachers.  Said additional teachers should not be used primarily for: </p><ul><li>administrative assistance</li><li>building security purposes</li><li>clerical or office-type tasks</li><li>discipline purposes</li><li>substituting</li><li>lunchroom duty</li><li>playground duty</li><li>guidance purposes—adjustment and counseling</li></ul></li><li><p>All schools will be designated as schools with space available or schools without space available.  Five periodic reports will be prepared during the school year and will include the following:</p><ol><li><p>a listing of the names of the schools where space is available;</p></li><li><p>listing of the names of the schools where space is not available and where additional teachers have been assigned.</p></li></ol></li><li><p>Elementary schools without space available and where additional teachers have been assigned will:</p><ol><li><p>receive first priority in the assignment of Cadre and day-to-day substitute teachers;</p></li><li><p>have physical education teachers and teacher-librarians assigned based on the number of teaching positions, with each kindergarten class counted as one position.</p></li></ol></li></ol></li></ol></li><li>\n            <h2>High School Staffing and Organization<sup>1</sup></h2><ol><li><p>The maximum number of students in the classes indicated below will generally be as follows:</p>\n              <table><tbody>\n                <tr><td>English (regular, honors and advanced placement)</td><td>28</td></tr>\n                <tr><td>English (essential or basic)</td><td>25</td></tr>\n                <tr><td>Mathematics (regular, honors and advanced placement)</td><td>28</td></tr>\n                <tr><td>Mathematics (remedial)</td><td>25</td></tr>\n                <tr><td>Foreign Language</td><td>28</td></tr>\n                <tr><td>Social Studies</td><td>28</td></tr>\n                <tr><td>Business Education</td><td>28</td></tr>\n                <tr><td>General Science–Science Laboratory</td><td>28</td></tr>\n                <tr><td>Home Economics–Non-Laboratory</td><td>28</td></tr></tbody></table><p>If essential or basic students are programmed in the same English or mathematics class with regular or honors students, the maximum class size will generally be 25 students.</p><p>Implementation of the policy on class sizes in specific schools may result in problems relating to individual class sizes, single section classes, installation of experimental programs, scheduling of special subject classes, and class organization and reorganization.  Local school deviations from the class sizes indicated above may be made by the principal, after consulting the Professional Problems Committee and the teachers involved, when necessary to implement special programs for instructional improvement or to meet special needs of the particular schools.  The total number of subject matter students assigned to each teacher should not exceed the number of subject classes multiplied by the maximum class size for the given subject indicated.</p></li><li><p>The number of students assigned to teachers indicated below will generally be determined by multiplying the number indicated next to the subject by the number of classes in the given subject.</p>\n              <table><tbody>\n                <tr><td>Art</td><td>31</td></tr>\n                <tr><td>General Music</td><td>34</td></tr>\n                <tr><td>Physical Education</td><td>40</td></tr></tbody></table></li></ol><small>\n              <table><tbody>\n                <tr><td valign=\"top\"><sup>1</sup></td><td>One of the responsibilities of all high school teachers is to work to improve reading skills of all students in all subject areas.</td></tr></tbody></table></small></li><li>\n            <h2>Elementary Schools–Art &amp; Music</h2><p>The BOARD will continue to assign art and music teachers to elementary schools in accordance with the following formula:</p><ul><li><p>.5 position for schools whose enrollment is 750 or less;</p></li><li><p>1.0 position for schools whose enrollment is 751 or more.</p></li></ul></li><li>\n            <h2>Shop, Home Economics, Laboratory and Drafting</h2><p>Shop, home economics, laboratory and drafting classes shall be limited in size to the maximum number of work stations available in each individual physical classroom in each school.  The number of stations in each individual classroom shall be determined by the individual teacher, school administrator, and the shop supervisor of the BOARD.</p></li><li>\n            <h2>Special Education</h2><p>The class size in special education classes shall be in accordance with the guidelines established by the BOARD in “Guidelines for Special Education Programs” and the Rules and Regulations of the State Board of Education.</p></li><li>\n            <h2>Administrative Discretion in Exceptional Circumstances</h2><p>The Chief Executive Officer or Chief Financial Officer is authorized to permit deviations from this policy where circumstances in the judgment of either of them require it.</p></li><li>\n            <h2>Procedures for Modifying Class Size Policy</h2><p>Prior to BOARD adoption of any amendments to this policy altering the class size provisions contained herein, notice and an opportunity to meet and confer regarding the alterations will be provided to the UNION at least 45 calendar days prior to implementation.</p></li></ol></blockquote>"
     },
     {
       "id": "art28-2",
@@ -3934,7 +4012,7 @@
       "parents": "APPENDICES » A. SALARY SCHEDULES AND OTHER COMPENSATION » A-1. SALARY SCHEDULES",
       "num": "A-1N",
       "type": "Appendix",
-      "title": "Trade and Vocational School Teachers (Including Cooperative Work Programs and Teachers in Vocational Home Economics Programs)",
+      "title": "Trade and Career and Technical Education School Teachers (Including Cooperative Work Programs and Teachers in Career and Technical Education Home Economics Programs)",
       "content": "<p>TBD</p>"
     },
     {
@@ -3942,7 +4020,7 @@
       "parents": "APPENDICES » A. SALARY SCHEDULES AND OTHER COMPENSATION » A-1. SALARY SCHEDULES",
       "num": "A-1O",
       "type": "Appendix",
-      "title": "Vocational Teacher Service Providers (Part-Time Employees)",
+      "title": "Career and Technical Education Teacher Service Providers (Part-Time Employees)",
       "content": "<p>TBD</p>"
     },
     {
@@ -4190,7 +4268,7 @@
       "num": "1-5.4",
       "type": "Article",
       "title": "Finance and Budget Information",
-      "content": "<p>During the budget planning process, the BOARD agrees to meet with the UNION on a monthly basis through the parties’ Budget Committee to review revenue and expenditure assumptions and other pertinent budgetary information.  After the budget is adopted, the BOARD agrees to meet with the UNION upon request to review the quarterly Interim Summary Financial Statements and the Comprehensive Annual Financial Report for each Fiscal Year.</p>"
+      "content": "<p>During the budget planning process, the BOARD agrees to meet with the UNION on a monthly basis through the parties’ Budget Committee to review revenue and expenditure assumptions, including capital expenditures, and other pertinent budgetary information.  After the budget is adopted, the BOARD agrees to meet with the UNION upon request to review the quarterly Interim Summary Financial Statements and the Comprehensive Annual Financial Report for each Fiscal Year.</p>"
     },
     {
       "id": "art1-5.5",
@@ -4215,6 +4293,14 @@
       "type": "Article",
       "title": "UNION Delegate Handbook",
       "content": "<p>The UNION shall furnish the Office of the Chief Executive Officer with five copies of the current UNION delegate’s handbook.</p>"
+    },
+    {
+      "id": "art1-5.8",
+      "parents": "",
+      "num": "1-5.8",
+      "type": "Article",
+      "title": "Bargaining Unit Employee Information",
+      "content": "<p>The BOARD shall provide the UNION on at least a monthly basis, and on a weekly basis for the months of August, September, and October, a list of all current employees in the bargaining unit, which shall include each employee’s first and last name, job title, department, work location, home address, all telephone numbers (including cell phone number if available), personal and work email addresses, date of birth, seniority date, base hourly pay rate (if available), language preference (if available), identification number/ payroll code/ job number, salary, status as a member or non-member, UNION dues, and COPE payment.</p><p>The parties agree to meet at reasonable times in good faith to ensure that they are operating under the same list of represented workers, members, and individuals who have authorized the deduction of dues, fees, assessments, and COPE. As a part of their meetings, the parties shall endeavor to identify any changes that need to be made to their systems or operations to ensure that systems and operations accurately track those individuals who are in the bargaining unit, and, among those individuals, those who have not authorized the deduction of union dues, fees, assessments and COPE contributions.</p><p>The BOARD shall provide the UNION with notice of CPS job fairs, new teacher orientation dates, and all gatherings of 25 or more new employees (excluding school-level meetings and events) including their time, date and location, as soon as practicable after their scheduling. At all such events, if the UNION attends, the UNION representatives will conduct themselves in a professional manner.</p><p>The BOARD shall allow the UNION to do informational tabling indoors in the lobby or vestibule at the Staff Center locations. The UNION shall request permission a minimum of a week in advance of its proposed date for informational tabling. The BOARD retains the exclusive right to designate the specific location of the information table, provided the location is readily accessible and visible to employees entering and leaving the buildings.</p>"
     },
     {
       "id": "art1-7.1",
@@ -4366,7 +4452,7 @@
       "num": "1-17.1",
       "type": "Article",
       "title": "Number and Length of Leaves",
-      "content": "<p>The BOARD shall grant forty-five appointed teachers or PSRPs elected or appointed to full-time positions with the UNION, the Illinois Federation of Teachers, the American Federation of Teachers or the Chicago Federation of Labor–Industrial Union Council leaves of absence without pay in increments of twelve calendar months for the purpose of accepting these positions upon appropriate application by the UNION.   The BOARD shall extend those leaves in increments of twelve calendar months.</p>"
+      "content": "<p>The BOARD shall grant fifty appointed teachers, clinicians, or PSRPs elected or appointed to full-time positions with the UNION, the Illinois Federation of Teachers, the American Federation of Teachers or the Chicago Federation of Labor–Industrial Union Council, or elected to municipal, county, state, or federal office, leaves of absence without pay in increments of twelve calendar months for the purpose of accepting these positions upon appropriate application by the UNION or in the case of elected office upon appropriate application by the employee.   The BOARD shall extend those leaves in increments of twelve calendar months.</p>"
     },
     {
       "id": "art1-17.2",
@@ -4374,7 +4460,7 @@
       "num": "1-17.2",
       "type": "Article",
       "title": "Health Care and Dental Benefits During Leaves",
-      "content": "<p>Bargaining unit employees who are on leaves for Union business may continue their health care and dental benefit coverage, provided that they pay the full cost of such coverage.</p>"
+      "content": "<p>Bargaining unit employees who are on leaves for Union business or elected public office may continue their health care and dental benefit coverage, provided that they pay the full cost of such coverage.</p>"
     },
     {
       "id": "art1-17.3",
@@ -4382,7 +4468,7 @@
       "num": "1-17.3",
       "type": "Article",
       "title": "Pension Contributions During Leaves",
-      "content": "<p>Bargaining unit employees who are on leaves for Union business shall be permitted to pay the contributions required or permitted by law to be made by the employee and the BOARD to the Public School Teachers’ Pension and Retirement Fund of Chicago or the Municipal Employees’ Annuity and Benefit Fund of Chicago to ensure that full credit for retirement purposes is granted for the time spent on such leaves of absence.</p>"
+      "content": "<p>Bargaining unit employees who are on leaves for Union business or elected public office shall be permitted to pay the contributions required or permitted by law to be made by the employee and the BOARD to the Public School Teachers’ Pension and Retirement Fund of Chicago or the Municipal Employees’ Annuity and Benefit Fund of Chicago to ensure that full credit for retirement purposes is granted for the time spent on such leaves of absence.</p>"
     },
     {
       "id": "art1-17.4",
@@ -4390,7 +4476,7 @@
       "num": "1-17.4",
       "type": "Article",
       "title": "Seniority Accrual on Leave",
-      "content": "<p>Bargaining unit employees who are on leaves for Union business shall continue to accrue seniority with the BOARD, and the leave of absence will not be considered a break in service.</p>"
+      "content": "<p>Bargaining unit employees who are on leaves for Union business or elected public office shall continue to accrue seniority with the BOARD, and the leave of absence will not be considered a break in service.</p>"
     },
     {
       "id": "art1-17.5",
@@ -4551,6 +4637,14 @@
       "type": "Article",
       "title": "Initiation at Higher Step",
       "content": "<p>The UNION may initiate or appeal a grievance at any step of the grievance procedure.</p>"
+    },
+    {
+      "id": "art3-8.3",
+      "parents": "",
+      "num": "3-8.3",
+      "type": "Article",
+      "title": "Expedited Grievance and Arbitration Procedure",
+      "content": "<p>Expedited grievance and arbitration procedure. Where expedited grievance and arbitration is provided in this Agreement, the following shall apply: The Union may file the grievance at the highest step. If the grievance is not adjusted within fifteen (15) days, it shall automatically proceed to arbitration upon the Union’s written demand. The parties shall select an arbitrator and the grievance shall be heard by the arbitrator within thirty (30) days of the arbitration demand. The arbitrator shall issue a bench ruling and award at the conclusion of the hearing, but may subsequently issue a written ruling explaining the award upon request of either party.</p>"
     },
     {
       "id": "art3-9.1",
@@ -4749,8 +4843,8 @@
       "parents": "",
       "num": "9-14.5",
       "type": "Article",
-      "title": "Substitute Coverage",
-      "content": "<p>Any regular school clerk assistant assigned in a school clerk I position for a period of twenty consecutive school days shall be paid at the appropriate step of the school clerk I salary schedule, effective on the twenty-first consecutive school day.  Upon the assignment or transfer of a regular school clerk I to said position, the school clerk assistant shall revert to the former pay status as a school clerk assistant.</p>"
+      "title": "School Clerk Assistant",
+      "content": "<p>Any regular school clerk assistant assigned in a school clerk I position for a period of ten consecutive school days shall be paid at the appropriate step of the school clerk I salary schedule and staffed in the position, effective on the eleventh consecutive school day. Upon the assignment or transfer of a regular school clerk I to said position, the school clerk assistant shall revert to the former pay status as a school clerk assistant.</p>"
     },
     {
       "id": "art9-14.6",
@@ -4759,6 +4853,14 @@
       "type": "Article",
       "title": "Training",
       "content": "<p>All school clerks shall be provided necessary training in Kronos, attendance management and internal accounts, as well as the implementation of any new programs or responsibilities that are introduced into the schools and performed by the school clerks.  Such training shall be provided annually during normal work hours.  When such training is provided, the BOARD shall determine the nature, extent, location and duration of the training.</p>"
+    },
+    {
+      "id": "art9-14.7",
+      "parents": "",
+      "num": "9-14.7",
+      "type": "Article",
+      "title": "Duties",
+      "content": "<p>The BOARD shall clearly delineate the duties of the school clerk. Registration and enrollment responsibilities shall be performed primarily by bargaining unit employees.</p>"
     },
     {
       "id": "art9-15.1",
@@ -4953,6 +5055,22 @@
       "content": "<p>The present practice of lane placement of teachers employed under a trade certificate will continue.</p>"
     },
     {
+      "id": "art18-6.1",
+      "parents": "",
+      "num": "18-6.1",
+      "type": "Article",
+      "title": "Notice of Needed Upgrades",
+      "content": "<p>Before the end of the school year, the CTE Teacher shall provide the CTE Department a list of needed repairs and/or replacement upgrades or updates for all equipment.</p>"
+    },
+    {
+      "id": "art18-6.1",
+      "parents": "",
+      "num": "18-6.1",
+      "type": "Article",
+      "title": "Maintenance Funds",
+      "content": "<p>The BOARD shall provide funds for regular and necessary maintenance for CTE equipment per CTE grant guidelines and regulations.</p>"
+    },
+    {
       "id": "art18-8.1",
       "parents": "",
       "num": "18-8.1",
@@ -5031,6 +5149,14 @@
       "type": "Article",
       "title": "",
       "content": "<p>School Administrators shall consult with the school LSC prior to closing a CTE program.  CTE programs shall not be closed or removed from schools without prior approval of the Chief Officer of College and Career Success or designee.  The Chief Officer of College and Career Success or designee shall advise and consult with the Union prior to approving the closure of a CTE program.</p>"
+    },
+    {
+      "id": "art18-18.4",
+      "parents": "",
+      "num": "18-18.4",
+      "type": "Article",
+      "title": "Opportunities for Expansion",
+      "content": "<p>The BOARD, in consultation with the UNION through the Joint CTE Committee shall continue to plan opportunities for Career and Technical Education program expansion in CPS neighborhood high schools.</p>"
     },
     {
       "id": "art19-4.1",
@@ -5118,7 +5244,7 @@
       "num": "20-1.7",
       "type": "Article",
       "title": "Work Space and Equipment for Clinicians",
-      "content": "<p>Clinicians shall be provided with appropriate work space to include a desk, chair and testing tables; a computer; a locking file cabinet with a key; direct access to working copiers, printers and telephones for follow up calls; testing environments that are heated and well ventilated; and necessary supplies, including file folders, paper clips and envelopes to store professional protocols. The Office of Diverse Learner Supports and Services shall inform principals annually at the beginning of the year about clinician work space needs in writing. A copy of this written transmission shall be submitted to the City-Wide Professional Problems Committee at the first meeting. Work space allocated to clinicians shall provide appropriate privacy for the administration of tests (in accordance with CPS-allocated test requirements and state and national standards) and confidential discussions and shall be as free from noise and interruption as the educational program and the school facility permits.  The Office of Diverse Learner Supports and Services shall conduct a survey to be distributed to clinicians before the end of September each school year to ascertain whether the work space conditions are adequate as defined in this article.  A process to remediate the situation shall be determined by the Clinician Professional Problems Committee with the Office of Labor Relations and the administrators of Office of Diverse Learners Services and Supports.</p>"
+      "content": "<p>Clinicians shall be provided with appropriate work space to include a desk, chair and testing tables; a computer; a locking file cabinet with a key; direct access to working copiers, printers and telephones for follow up calls; testing environments that are heated and well ventilated; and necessary supplies, including file folders, paper clips and envelopes to store professional protocols. The Office of Diverse Learner Supports and Services shall inform principals annually at the beginning of the year about clinician work space needs in writing. A copy of this written transmission shall be submitted to the City-Wide Professional Problems Committee at the first meeting. The Principal shall provide clinicians access to a designated space within the school building that is a confidential and private space for the provision of therapeutic services and testing to students. The Principal or designee will provide clinicians a weekly schedule of the designated space. Work space allocated to clinicians shall provide appropriate privacy for the administration of tests (in accordance with CPS-allocated test requirements and state and national standards) and confidential discussions and shall be as free from noise and interruption as the educational program and the school facility permits.  The Office of Diverse Learner Supports and Services shall conduct a survey to be distributed to clinicians before the end of September each school year to ascertain whether the work space conditions are adequate as defined in this article.  A process to remediate the situation shall be determined by the Clinician Professional Problems Committee with the Office of Labor Relations and the administrators of Office of Diverse Learners Services and Supports.</p>"
     },
     {
       "id": "art20-1.8",
@@ -5590,7 +5716,7 @@
       "num": "27-1.1",
       "type": "Article",
       "title": "Staffing",
-      "content": "<p>The BOARD shall hire and maintain sufficient day-to-day substitutes to cover the classes of absent teachers so that educational programs in elementary schools, middle schools, education and vocational guidance centers and high schools shall not be curtailed.</p>"
+      "content": "<p>The BOARD shall hire and maintain sufficient day-to-day substitutes to cover the classes of absent teachers so that educational programs in elementary schools, middle schools, education and career and technical education guidance centers and high schools shall not be curtailed.</p>"
     },
     {
       "id": "art27-1.2",
@@ -6440,7 +6566,7 @@
       "num": "1-17.5(a)",
       "type": "Article",
       "title": "Appointed Teachers, Clinicians or PSRPs Elected as UNION Officers",
-      "content": "An appointed teacher, clinician or PSRP who is elected as President, Vice President, Recording Secretary or Financial Secretary of the UNION and who decides to return to BOARD employment following the conclusion of his or her first term in office shall be returned to his or her original position in his or her original school or unit."
+      "content": "An appointed teacher, clinician or PSRP who is elected as President, Vice President, Recording Secretary or Financial Secretary of the UNION and who decides to return to BOARD employment following the conclusion of his or her first term in office shall be returned to his or her original position in his or her original school or unit. An appointed teacher, clinician, or PSRP who is elected as President, Vice President, Recording Secretary or Financial Secretary of the UNION and who serves more than one term and decides to return to BOARD employment following the conclusion of his or her last term in office shall be assigned to an equivalent position in his or her area of licensure."
     },
     {
       "id": "art1-17.5(b)",
@@ -6448,7 +6574,7 @@
       "num": "1-17.5(b)",
       "type": "Article",
       "title": "Other Teachers, Clinicians or PSRPs",
-      "content": "If a teacher, clinician or PSRP on UNION leave not covered by subsection 1-17.5(a) decides to return to BOARD employment at the conclusion of his or her UNION leave, the teacher, clinician or PSRP shall be assigned to an equivalent position in the area of his or her certification.  The teacher, clinician or PSRP shall not have the right to return to his or her original school or unit."
+      "content": "If a teacher, clinician or PSRP on UNION leave not covered by subsection 1-17.5(a) decides to return to BOARD employment at the within one year of the beginning of the UNION leave the teacher, clinician or PSRP shall be returned to his or her former position in his or her former school or unit. If such a teacher, clinician or PSRP decides to return to BOARD employment after one year from the beginning of the UNION leave, he or she shall be assigned to an equivalent position in the area of his or her licensure."
     },
     {
       "id": "art3-8.1(a)",
@@ -6504,7 +6630,7 @@
       "num": "20-1.1(b)",
       "type": "Article",
       "title": "PSRP clinicians defined",
-      "content": "<p>For purposes of this Article, PSRP clinicians are defined as full-time certified or licensed employees who are employed in the following titles:   PSRP case manager or PSRPs assigned case management responsibilities, speech language pathologist paraprofessional, licensed practical nurse, health service nurse, and health assistant.</p>"
+      "content": "<p>For purposes of this Article, PSRP clinicians are defined as full-time certified or licensed employees who are employed in the following titles:   PSRP case manager or PSRPs assigned case management responsibilities, licensed practical nurse, health service nurse, and health assistant.</p>"
     },
     {
       "id": "art20-1.2(a)",
