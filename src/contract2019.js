@@ -1,8 +1,8 @@
-render("I");
+render("13");
 function render(articleNum) {
   const articles=contract.filter(article => article.num.startsWith(articleNum));
   const main=document.getElementsByTagName("main").item(0);
-  if ( articleNum.includes("-") ) { console.log("subarticle");
+  if ( articleNum.includes("-") ) {
     articles.forEach( (article) => {
       const result=renderSubArticle(article);
       main.appendChild(result);
@@ -79,8 +79,19 @@ function renderSubArticle (thisArt) {
 }
 
 function renderTable (articles) {
-  const table=document.createElement("p")
-  table.innerText="This would be a table."
+  const table=document.createElement("table");
+  const tbody=document.createElement("tbody");
+  table.appendChild(tbody);
+  articles.forEach( (article) => {
+    if ( !(article.num.includes(".") || article.num.includes("(") ) ){
+      const tr=document.createElement("tr");
+      const row=`
+          <td><a href="${article.num}">${article.num}</a></td>
+          <td><a href="${article.num}">${article.title}</a></td>
+        `;
+      tr.innerHTML=row;
+      tbody.appendChild(tr);
+    }
+  });
 	return table;
 }
-
