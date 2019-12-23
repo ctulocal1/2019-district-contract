@@ -2253,16 +2253,14 @@
       "parents": "ARTICLES » 20. CLINICIANS",
       "num": "20-7",
       "type": "Article",
-      "title": "Additional Funding for Personnel Costs",
-      "content": "<p>If the BOARD receives additional funding sources in Fiscal Year 2013 that can be used for personnel costs, the BOARD will bargain with the UNION upon request over hiring up to one hundred additional school social workers or school nurses.</p>"
+      "title": "[DELETED]"
     },
     {
       "id": "art20-8",
       "parents": "ARTICLES » 20. CLINICIANS",
       "num": "20-8",
       "type": "Article",
-      "title": "Meetings Among Related Services Personnel",
-      "content": "<p>Related services personnel (e.g., school psychologists, school social workers, speech language pathologists, school nurses, physical therapists, occupational therapists and/or other district resource personnel) shall be provided time to meet periodically with special education teachers during the school day during their preparation periods to discuss matters of professional interest.  Related services personnel shall arrange conferences periodically with the teachers of students with disabilities during the school day at times, if possible, when students are not scheduled for their classrooms.</p>"
+      "title": "[DELETED]"
     },
     {
       "id": "art20-9",
@@ -2270,7 +2268,7 @@
       "num": "20-9",
       "type": "Article",
       "title": "Counselors, Clinicians and Special Educators Case Management Responsibilities",
-      "content": "<p>By no later than the start of the 2017-18 school year, the Board shall no longer require school counselors, clinicians and special educators to perform case management responsibilities.  The Board and Union shall form a committee to recommend to the CEO how to implement this provision.</p>"
+      "content": "<p>The Board shall not require school counselors, clinicians and special educators to perform case management responsibilities.  The Board and Union shall form a committee to recommend to the CEO how to implement this provision.</p>"
     },
     {
       "id": "art21-1",
@@ -5245,7 +5243,7 @@
       "num": "20-1.8",
       "type": "Article",
       "title": "Filling Vacancies",
-      "content": "<p>Vacancies in clinician positions shall be filled based upon city-wide needs. First consideration for such vacancies shall be given to those clinicians who have expressed a desire to transfer. Experience shall be a consideration. The final decision as to the transfer shall be made by the Office of Diverse Learner Supports and Services, unless the duties of the position are performed at a single attendance center, in which case the final decision as to transfer shall be made by the receiving school principal.</p>"
+      "content": "<p>A clinician who must  travel  during  the  afternoon  shall  be  given  a  daily  un-interrupted  lunch  period  of  forty-five  minutes  with  no  work  responsibilities exclusive of travel time.</p>"
     },
     {
       "id": "art20-1.9",
@@ -5278,6 +5276,14 @@
       "type": "Article",
       "title": "Licensure Compliance",
       "content": "<p>The Board and the Union recognize that clinicians are licensed by the state and must abide by state and federal laws and regulations.  The Board will not take any action to jeopardize the professional licensure of clinicians.</p>"
+    },
+    {
+      "id": "art20-1.13",
+      "parents": "",
+      "num": "20-1.13",
+      "type": "Article",
+      "title": "No Privatization",
+      "content": "<p>Beginning  in  the  2020-21  school  year,  the  BOARD  will  not  contract  out  or  otherwise  privatize  teach-er  clinician  positions  (as  defined  in  Article  20-1.1(a)),  PSRP  clinician  positions  (as  defined  in  Article  20-1.1(b)),  teacher  assistants or librarians. Beginning with the 2019-20 school year,  the  BOARD  will  implement  a  program  to  reduce  the  number of contract or agency nurses that it currently utilizes with the goal of eliminating all contract or agency nurses by the end of the term of this Agreement, except for short-term substitute and/or supplemental nursing services.</p>"
     },
     {
       "id": "art20-2.1",
@@ -5325,7 +5331,7 @@
       "num": "20-2.6",
       "type": "Article",
       "title": "Counselor Duties",
-      "content": "<p>In programming and directing the work of a counselor, a principal shall endeavor to assign duties to the counselor that are consistent with the recommendations of the American School Counselor Association or other recognized organizations, except when such recommendations are inconsistent with the responsibilities expected of all faculty members or BOARD or local school level administrative and educational requirements. Disagreements over this Section shall be resolved by the counselor, the principal and the Professional Problems Committee.</p>"
+      "content": "<p>In programming and directing the work of a Elementary, Middle and High School counselor, a principal shall assign duties to the counselor that are consistent with the CPS Reach Framework for School Counselors which will remain aligned with the recommendations of the American School Counselor Association (ASCA). Principals will ensure hat School Counselors are given adequate time during the school day to deliver Tier 1, 2, and 3 student supports and counseling activities. Disagreements over this Section shall initially be resolved by the counselor, the principal and the Professional Problems Committee.</p>"
     },
     {
       "id": "art20-3.1",
@@ -5333,7 +5339,6 @@
       "num": "20-3.1",
       "type": "Article",
       "title": "Work Year",
-      "content": "<p>&nbsp;</p>"
     },
     {
       "id": "art20-3.2",
@@ -5365,7 +5370,7 @@
       "num": "20-5.1",
       "type": "Article",
       "title": "Staff Development Workshop",
-      "content": "<p>The BOARD shall also conduct one annual staff development workshop for speech pathology teachers speech language pathologists and speech language pathologist paraprofessionals.</p>"
+      "content": "<p>The BOARD shall also conduct one annual staff development workshop for speech pathology teachers speech language pathologists.</p>"
     },
     {
       "id": "art20-5.2",
@@ -5381,7 +5386,7 @@
       "num": "20-6.1",
       "type": "Article",
       "title": "Work Year",
-      "content": "<p>&nbsp;</p>"
+      "content": "[DELETED]"
     },
     {
       "id": "art20-6.2",
@@ -5430,6 +5435,22 @@
       "type": "Article",
       "title": "Missed Lunch",
       "content": "<p>Licensed Practical Nurses and Health Service Nurses who work through their regularly scheduled lunch period shall be permitted to schedule it at another time during the day, including at the end of the day.</p>"
+    },
+    {
+      "id": "art20-6.8",
+      "parents": "",
+      "num": "20-6.8",
+      "type": "Article",
+      "title": "Nurse Advancement Program",
+      "content": "<p>The BOARD, in consultation with the UNION, will develop and implement a program for LPNs  interested  in  becoming  HSNs  and  HSNs  interested  in  becoming  CSNs.  The  BOARD  will  devote  no  less  than  $2,000,000 during the term of this Agreement to support tu-ition assistance for nurses, employees and prospective em-ployees toward mutually agreed upon universities between the  BOARD  and  UNION,  as  well  as  other  related  program  costs.</p>"
+    },
+    {
+      "id": "art20-6.9",
+      "parents": "",
+      "num": "20-6.9",
+      "type": "Article",
+      "title": "Lane and Step Placement",
+      "content": "<p>Nurses who change job classifications will be placed in the appropriate lane according to their level of ed-ucation and job classification on the step in that lane closest to, but not less than, their salary prior to the change. From there, they shall advance steps and lanes as determined by Appendix A.</p>"
     },
     {
       "id": "art21-13.1",
@@ -6679,7 +6700,7 @@
       "num": "20-3.1(a)",
       "type": "Article",
       "title": "",
-      "content": "<p>School psychologists employed in the Office of Diverse Learner Supports and Services prior to December 16, 1967 have had the option of working ten school months (forty weeks), eleven school months (forty-four weeks), twelve school months (forty-eight weeks) or twelve calendar months.</p><p>Subsequent to December 16, 1967, all school psychologists newly assigned to the Office of Diverse Learner Supports and Services and all school psychologists who elected to convert from twelve calendar months to twelve school months shall be employed on a twelve-school-month basis.</p><p>Pension contributions and sick leave shall be based on the work year for 248-day personnel. Pension contributions and sick leave for all other employment period classifications shall be based on the 208-day year.</p><p>Effective September 6, 1976, all newly appointed school psychologists and all provisional and temporarily certificated school psychologists shall be employed on a ten-school-month (208-day) basis. All school psychologists currently employed on a twelve-school-month (52-week) basis or on an eleven-school-month (248-day) basis shall be given the opportunity to convert to a ten-school-month (208-day) basis. Election to convert shall be final and cannot subsequently be changed at the request of the employee.</p>"
+      "content": "<p>All school psychologists and all provisional and temporarily certificated school psychologists shall be employed on a ten-school-month (208-day) basis.</p>"
     },
     {
       "id": "art20-3.1(b)",
@@ -6687,7 +6708,7 @@
       "num": "20-3.1(b)",
       "type": "Article",
       "title": "",
-      "content": "<p>School psychologists continuously employed in the Office of Diverse Learner Supports and Services since on or before December 31, 1976 on a 248-day work year schedule (or its previous equivalent of forty-eight weeks) shall maintain their 248-day work year schedule, unless they voluntarily elect to transfer to a position with a lesser work year.</p><p>At the beginning of each school year, the BOARD shall provide to the UNION a list of school psychologists who have continuously held forty-eight week positions since on or before December 31, 1976 and whose schedules shall be maintained under this section.</p><p>Pension contributions and sick leave shall be based on the work year for 248-day personnel.  Pension contributions and sick leave for all other employment period classifications shall be based on the 208-day year.</p>"
+      "content": "<p>Pension contributions and sick leave shall be based on the 208-day year.</p>"
     },
     {
       "id": "art20-4.1(a)",
@@ -6695,7 +6716,7 @@
       "num": "20-4.1(a)",
       "type": "Article",
       "title": "",
-      "content": "Effective December 16, 1967, all newly assigned school social workers and all school social workers who elected to convert from twelve calendar months to twelve school months shall be employed on a twelve-school-month basis.<p>Pension contributions and sick leave shall be based on the work year for twelve school-month personnel.</p><p>All newly appointed school social workers and all provisional and temporarily certificated school social workers shall be employed on a ten-school-month (208-day) basis. All school social workers currently employed on a twelve school-month (52-week) basis shall be given the opportunity to convert to a ten-school-month (208-day) basis. Election to convert shall be final and cannot subsequently be changed at the request of the employee.</p>"
+      "content": "<p>All school social workers and all provisional and temporarily certificated school social workers shall be employed on a ten-school-month (208-day) basis.</p>"
     },
     {
       "id": "art20-4.1(b)",
@@ -6703,23 +6724,7 @@
       "num": "20-4.1(b)",
       "type": "Article",
       "title": "",
-      "content": "School social workers continuously employed in the Office of Diverse Learner Supports and Services since on or before December 31, 1976 on a 248-day work year schedule (or its previous equivalent of forty-eight weeks) shall maintain their 248-day work year schedule, unless they voluntarily elect to transfer to a position with a lesser work year.<p>At the beginning of each school year, the BOARD shall provide to the UNION a list of school social workers who have continuously held 248-day positions since on or before December 31, 1976 and whose schedules shall be maintained under this section.</p><p>Employment of ten-school-month (208-day) school social workers beyond ten school months shall be considered as summer employment. Pension contributions and sick leave shall be based on a ten-school-month year.</p>"
-    },
-    {
-      "id": "art20-6.1(a)",
-      "parents": "",
-      "num": "20-6.1(a)",
-      "type": "Article",
-      "title": "",
-      "content": "<p>Effective December 16, 1967, all newly assigned school nurses and all school nurses who elected to convert from twelve calendar months to twelve school months shall be employed on a twelve-school-month basis.</p><p>Pension contributions and sick leave shall be based on the work year for twelve school-month personnel.</p><p>Effective September 6, 1976, all newly appointed school nurses and all provisional and temporarily certificated school nurses shall be employed on a ten-school-month (208-day) basis. All school nurses currently employed on a twelve-school-month (52-week) basis shall be given the opportunity to convert to a ten-school-month (208-day) basis. Election to convert shall be final and cannot subsequently be changed at the request of the employee.</p>"
-    },
-    {
-      "id": "art20-6.1(b)",
-      "parents": "",
-      "num": "20-6.1(b)",
-      "type": "Article",
-      "title": "",
-      "content": "<p>School nurses continuously employed in the Office of Diverse Learner Supports and Services since on or before December 31, 1976 on a 248-day work year schedule (or its previous equivalent of forty-eight weeks) shall maintain their 248-day work year schedule, unless they voluntarily elect to transfer to a position with a lesser work year</p><p>At the beginning of each school year, the BOARD shall provide to the UNION a list of school nurses who have continuously held 248-day positions since on or before December 31, 1976 and whose schedules shall be maintained under this section.</p><p>school nurses shall be employed on a ten-school-month (208-day) basis. All school nurses currently employed on a twelve-school-month (52-week) basis who convert to a ten-school-month (208-day) basis shall not be entitled to return to a twelve-school-month (52-week) work year schedule. Employment of ten-school-month school nurses beyond ten school months shall be considered as summer employment. Pension contributions and sick leave shall be based on a ten-school-month year.</p>"
+      "content": "<p>Employment of ten-school-month (208-day) school social workers beyond ten school months shall be considered as summer employment. Pension contributions and sick leave shall be based on the 208-day year.</p>"
     },
     {
       "id": "art20-6.4(a)",
