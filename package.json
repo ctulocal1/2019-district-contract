@@ -8,5 +8,7 @@
     "grunt": "*",
     "grunt-contrib-connect": "*"
   },
-  "dependencies": {}
+  "dependencies": {
+    "remarkable": "^2.0.0"
+  }
 }

@@ -1062,10 +1062,12 @@
   content: |
     Office Clerks and Administrative Assistants shall not be required to perform the following duties&#58;
 
-    a)	Administration of nursing or medical services for which they are not duly trained and authorized, including the administration of medication to students;
-    b)	Janitorial duties;
-    c)	Administration of student discipline; or
-    d)	Any other duty outside of their job descriptions, except in emergency situations.
+    1.	Administration of nursing or medical services for which they are not duly trained and authorized, including the administration of medication to students;
+    1.	Janitorial duties;
+    1.	Administration of student discipline; or
+    1.	Any other duty outside of their job descriptions, except in emergency situations.
+
+    <style>ol li {padding: 0 0 1.2em 1.2em;} ol ::marker {content: "(" counter(list-item, lower-alpha) ") ";}</style>
 
     Office Clerks and Administrative Assistants shall not be required to supervise students for more than one (1) hour per day, except in cases of emergency.  They shall not be used as a substitute for a teacher except for temporary emergency supervisory duty where the welfare of students is involved, and such temporary supervisory duty shall not exceed one (1) hour.
 -
