@@ -1,6 +1,6 @@
 const fs=require('fs');
 const yaml = require('js-yaml');
-import makeJSON from './convertyaml.js';
+const convertYAML = require('./convertyaml.js');
 
 const args=process.argv;
 
@@ -10,14 +10,20 @@ const sourceFileContent=fs.readFileSync(args[2],"utf8");
 const sourceFileNames=yaml.load(sourceFileContent);
 
 // Run through filenames and for each call single-contract build.
-sourceFileNames.forEach( (YAMLfilename) => {
+sourceFileNames.forEach( (YAMLfileName) => {
 
   // SINGLE CONTRACT BUILD
   // Convert and write yamlMD to jsonHTML and save in subfolder.
-  const newData=makeJSON(YAMLfileName);
-  
-
+  const newData=convertYAML.makeJSON(YAMLfileName);
   // Create subfolder of public based on contract name
+  const YAMLfileNameParts=YAMLfileName.split('.');
+  console.log(YAMLfileNameParts);
+  const pathName=YAMLfileNameParts.shift();
+  const rootName=pathName.split('/').pop();
+  console.log(rootName);
+  fs.mkdirSync('../public/' + rootName);
+  // Make JSON file based on filename
+  fs.writeFileSync(rootName.concat('.json'), newData);
   // Read through articles and call templating subroutine on each object
 });
 

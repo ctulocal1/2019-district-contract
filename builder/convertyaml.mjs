@@ -3,11 +3,11 @@ const yaml = require('js-yaml');
 const { Remarkable } = require('remarkable');
 var md = new Remarkable();
 
-exports.makeJSON = ( (YAMLfile) => {
-  const YAMLdata=fs.readFileSync(YAMLfile);
+export default makeJSON(YAMLfilename) {
+  const YAMLdata=fs.readFileSync(YAMLfilename);
   const dataObject=convert(YAMLdata);
   return dataObject;
-});
+}
 
 function convert (yamlString) {
   let data=yaml.load(yamlString);
