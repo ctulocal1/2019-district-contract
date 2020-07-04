@@ -1,0 +1,69 @@
+body {
+  font-family: sans-serif;
+}
+div.button-wrapper {
+  text-align: right;
+  width:100%;
+}
+button.minor {
+  background: #f0fcff;
+  color: #5588dd;
+  border-color:inherit;
+  border-width:1px;
+  border-style: solid;
+  border-radius: 4px;
+  text-transform: uppercase;
+  padding: 8px 10px;
+} 
+button.minor[disabled] {
+  color: #ddeeff;
+  background: #fafcff;
+}
+input.dialog-closed {
+  display:block;
+  position:fixed;
+  left:-1000px;
+}
+input.dialog-closed:checked ~ .dialog {
+  display:none;
+}
+.dialog {
+  box-sizing: border-box;
+  width: calc(100vw - 40px);
+  background: #f4f4f4;
+  border: 1px solid #f0f0f0;
+  display:block;
+  position:fixed;
+  top: 20px;
+  left:20px;
+  padding: 20px;
+}
+.dialog > label.dialog-closed {
+  box-sizing: border-box;
+  cursor:pointer;
+  display:block;
+  position: absolute;
+  right:0;
+  top:0;
+  width:27px; height:27px;
+  line-height:1.5em;
+  text-align:center;
+  border: 1px solid #f0f0f0;
+  font-size:1px;
+  color: #feffff01;
+}
+.dialog > label.dialog-closed::before {
+  box-sizing: border-box;
+  content: "\00d7";
+  cursor:pointer;
+  display:block;
+  position: absolute;
+  right:0;
+  top:0;
+  font-size:18px;
+  width: 100%;
+  height:100%;
+  line-height:1.5em;
+  text-align:center;
+  color: #AAAAAA;
+}

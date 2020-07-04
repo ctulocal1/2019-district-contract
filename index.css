@@ -10,7 +10,7 @@ body * {
 main {
 	z-index:0;
 	position: fixed;
-	left:0;
+	right:0;
 	top:40px;
 	background: #FFF;
 	height:calc(100vh - 40px);
@@ -24,7 +24,7 @@ nav#menu-bar {
 	display:block;
 	position:fixed;
 	top:0;
-	right:-1px;
+	left:-1px;
 	overflow:visible;
 	width:1px;
 	height:36px;
@@ -37,7 +37,7 @@ label[for="menuToggle"] {
 	display:block;
 	position:fixed;
 	top:2px;
-	right:2px;
+	left:2px;
 	height:36px;
 	margin:0;
 	padding: 6px;
@@ -47,7 +47,7 @@ label[for="menuToggle"] {
 	font-weight:700;
 	text-transform:uppercase;
 	z-index:1;
-  transition: right .2s, color .4s;
+  transition: left .2s, color .4s;
 }
 input#menuToggle {
 	display:block;
@@ -64,18 +64,18 @@ input#menuToggle:checked + label::after {
   display:inline-block;
   margin: 0 2px 0 10px;
 }
-input#menuToggle:not(:checked) + label::before {
-  background-image:  url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 520 600" width="520" height="600"><polygon points="0,300 520,600 520,0" fill="%23ffffff"/></svg>');
+input#menuToggle:not(:checked) + label::after {
+  background-image:  url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 520 600" width="520" height="600"><polygon points="520,300 0,600 0,0" fill="%23ffffff"/></svg>');
   background-size: 13px 15px;
   content: "";
   width:13px;
   height:15px;
   display:inline-block;
-  margin: 0 10px 0 2px;
+  margin: 0 2px 0 10px;
 }
 input#menuToggle:not(:checked) + label {
-  right:-100px;
-  transition: right 2s .2s, color .9s .2s;
+  left:-100px;
+  transition: left 2s .2s, color .9s .2s;
   color:#01010101;
 }
 input#menuToggle ~ section.home-nav {
@@ -86,12 +86,12 @@ input#menuToggle ~ section.home-nav {
 	width: calc(100% - 2px);
 	background:#000000CC;
 	color:red;
-	right:-100vw;
-	transition:right 0.2s;
+	left:-100vw;
+	transition:left 0.2s;
 }
 input#menuToggle:checked ~ section.home-nav {
-	transition:right 0.2s;
-	right:0;
+	transition:left 0.2s;
+	left:0;
 }
 section.home-nav > ul,
 section.home-nav > ul > li{

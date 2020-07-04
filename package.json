@@ -9,6 +9,7 @@
     "grunt-contrib-connect": "*"
   },
   "dependencies": {
+    "@std/esm": "^0.26.0",
     "remarkable": "^2.0.0"
   }
 }
