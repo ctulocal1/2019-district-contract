@@ -1,0 +1,78 @@
+-  Salary:
+  - Teacher:
+    - 208-day:
+      - Lane 1:
+      - Lane 2:
+      - Lane 3:
+      - Lane 4:
+      - Lane 5:
+      - Lane 6:
+    - 228-day:
+      - Lane 1:
+      - Lane 2:
+      - Lane 3:
+      - Lane 4:
+      - Lane 5:
+      - Lane 6:
+    - 248-day:
+      - Lane 1:
+      - Lane 2:
+      - Lane 3:
+      - Lane 4:
+      - Lane 5:
+      - Lane 6:
+    - 52-Week:
+      - Lane 1:
+      - Lane 2:
+      - Lane 3:
+      - Lane 4:
+      - Lane 5:
+      - Lane 6:
+  - PSRP:
+    - Schedule:
+    - Position / Grade:
+    - Lane:
+  - Cadre Sub:
+    - Daily Rate:
+  - Cadre (Displaced):
+    - Daily Rate:
+  - Day-to-day, No Education Degree:
+    - Daily rate:
+  - Day-to-day, With Education Degree:
+    - 6.5 hour day:
+      - less than 100 days service:
+      - more than 100 days service:
+    - 8 hour day:
+      - less than 100 days service:
+      - more than 100 days service:
+- Increments and Stipends:
+  - National Board Certified Teachers:
+  - Head Teacher:
+    - Schedule Choice 1:
+    - Schedule Choice 2:
+    - Schedule Choice 3:
+  - Acting Head Teacher:
+    - Schedule Choice 1:
+    - Schedule Choice 2:
+    - Schedule Choice 3:
+  - Psychologist:
+    - Schedule Choice 1:
+    - Schedule Choice 2:
+    - Schedule Choice 3:
+  - Social Worker:
+    - Schedule Choice 1:
+    - Schedule Choice 2:
+    - Schedule Choice 3:
+  - Speech Pathologist:
+    - Schedule Choice 1:
+    - Schedule Choice 2:
+    - Schedule Choice 3:
+  - Case Manager:
+- Miscellaneous:
+  - High School Extra Period:
+  - Driver Education:
+  - Extracurricular Activity:
+  - Social Center Personnel:
+  - Summer Swimming Pool:
+  - Afer School:
+  - Travel Reimbursement:
